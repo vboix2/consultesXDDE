@@ -1,0 +1,11 @@
+{
+    "name": "consultesXDDE",
+    "main": "xdde.js",
+    "scripts": {
+        "start": "node xdde.js"
+    },
+    "dependencies": {
+        "@google-cloud/storage": "^4.7.0",
+        "express": "^4.16.3"
+    }
+}
